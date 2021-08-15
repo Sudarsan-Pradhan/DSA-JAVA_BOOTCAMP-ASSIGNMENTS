@@ -1,7 +1,7 @@
 import java.io.*;
 
 /**
- * Greeting_Message
+ * ! Take name as input and print a greeting message for that name.
  */
 public class Greeting_Message {
 
