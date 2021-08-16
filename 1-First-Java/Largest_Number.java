@@ -1,5 +1,8 @@
 import java.util.*;
 
+/**
+ * Take 2 numbers as input and print the largest number.
+ */
 public class Largest_Number {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
