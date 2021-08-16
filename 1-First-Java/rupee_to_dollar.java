@@ -1,5 +1,8 @@
 import java.util.*;
 
+/**
+ * Input currency in rupee and output in dollar.
+ */
 public class rupee_to_dollar {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
