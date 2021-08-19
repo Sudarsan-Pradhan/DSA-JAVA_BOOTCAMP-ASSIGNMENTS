@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "1-First-Java"
+        "1-First-Java",
+        "Conditionals-Loops"
     ]
 }
