@@ -1,13 +1,15 @@
 import java.util.*;
 
+//Write a program to calculate area of the triangle
 public class Area_Triangle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("1.Right-Angled Triangle");
         System.out.println("2.Equilateral Triangle");
         System.out.println("3.Isosceles Triangle");
-
+        // For infinite while loop
         while (true) {
+            // Taking the input for type of the triangle
             System.out.println("Choose the type of triangle:");
             int option = input.nextInt();
 
@@ -37,7 +39,7 @@ public class Area_Triangle {
             } else if (option == 0) {
                 break;
             } else {
-                System.out.println("Wrong input !! Try again😞");
+                System.out.println("Wrong input !! Try again 😞");
             }
         }
         input.close();
