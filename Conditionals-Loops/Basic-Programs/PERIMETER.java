@@ -6,9 +6,9 @@ public class PERIMETER {
         System.out.println("A.Perimeter of Circle");
         System.out.println("B.Perimeter of Equilateral Triangle");
         System.out.println("C.Perimeter of Parallelogram:");
-        System.out.println("D.Perimeter of Rectangle:");
-        System.out.println("E.Perimeter of Square:");
-        System.out.println("F.Perimeter of Rhombus:");
+        System.out.println("D.Perimeter of Rectangle");
+        System.out.println("E.Perimeter of Square");
+        System.out.println("F.Perimeter of Rhombus");
         double PI = 3.1415926535897;
 
         while (true) {
