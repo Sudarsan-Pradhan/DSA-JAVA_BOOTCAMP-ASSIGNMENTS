@@ -14,6 +14,5 @@ public class Power {
         double result = Math.pow(baseValue, powerValue);
         System.out.println("So " + baseValue + " to the power " + powerValue + " = " + result);
         input.close();
-
     }
 }
