@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "Intermediate-Programs_52370cbd"
+        },
+        {
+            "type": "java",
             "name": "Launch Factorial",
             "request": "launch",
             "mainClass": "Factorial",
