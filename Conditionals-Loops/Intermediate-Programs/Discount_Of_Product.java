@@ -8,7 +8,7 @@ public class Discount_Of_Product {
         System.out.println("Enter the discount amount of the product: ");
         float DiscountRate = Float.parseFloat(reader.readLine());
         float percentage = DiscountRate / 100;// Represent the discount percentage in decimal form
-        float productValue = productPrice - (productPrice * percentage);
+        float productValue = productPrice - (productPrice * percentage); // Formula for calculating discount of product
         System.out.println("The discounted price of the product is: " + productValue);
 
     }
