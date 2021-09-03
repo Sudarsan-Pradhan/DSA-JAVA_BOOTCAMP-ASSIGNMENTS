@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SumOf_N_numbers",
+            "request": "launch",
+            "mainClass": "SumOf_N_numbers",
+            "projectName": "Intermediate-Programs_52370cbd"
+        },
+        {
+            "type": "java",
             "name": "Launch Calculate_Batting_Average",
             "request": "launch",
             "mainClass": "Calculate_Batting_Average",
