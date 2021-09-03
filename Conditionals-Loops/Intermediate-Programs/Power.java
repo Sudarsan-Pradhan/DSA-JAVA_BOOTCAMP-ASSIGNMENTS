@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Power
+ * Power in java
  */
 public class Power {
 
