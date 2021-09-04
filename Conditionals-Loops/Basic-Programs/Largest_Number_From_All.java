@@ -12,16 +12,14 @@ public class Largest_Number_From_All {
         System.out.print("Enter the number: ");
         int number;
         int largestValue = 0;
-        int previousValue;
+        int number;
+        int max = 0;
         while ((number = Integer.parseInt(input.readLine())) != 0) {
-            previousValue = number;
-            if (number > previousValue) {
-                largestValue = number;
-            } else {
-                largestValue = previousValue;
+            if(max < number){
+                max = number;
             }
         }
-        System.out.println("The largest number =" + largestValue);
+        System.out.println("The largest number =" +max);
 
     }
 }
