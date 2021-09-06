@@ -3,7 +3,7 @@ import java.io.*;
 /**
  ** Write a program to print factorial of a number, also take input.
  */
-public class Factorial {
+public class factorial {
 
     public static void main(String[] args) throws IOException {
         InputStreamReader IS = new InputStreamReader(System.in);
