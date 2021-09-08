@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sum_of_Digits_of_Number",
+            "request": "launch",
+            "mainClass": "Sum_of_Digits_of_Number",
+            "projectName": "Intermediate-Programs_bc75bbd9"
+        },
+        {
+            "type": "java",
             "name": "Launch ArmstrongNumber",
             "request": "launch",
             "mainClass": "ArmstrongNumber",
